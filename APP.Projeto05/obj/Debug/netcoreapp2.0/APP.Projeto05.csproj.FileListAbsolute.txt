@@ -1,0 +1,11 @@
+C:\Users\logonrmlocal\Documents\a\APP.Projeto05\bin\Debug\netcoreapp2.0\APP.Projeto05.deps.json
+C:\Users\logonrmlocal\Documents\a\APP.Projeto05\bin\Debug\netcoreapp2.0\APP.Projeto05.runtimeconfig.json
+C:\Users\logonrmlocal\Documents\a\APP.Projeto05\bin\Debug\netcoreapp2.0\APP.Projeto05.runtimeconfig.dev.json
+C:\Users\logonrmlocal\Documents\a\APP.Projeto05\bin\Debug\netcoreapp2.0\APP.Projeto05.dll
+C:\Users\logonrmlocal\Documents\a\APP.Projeto05\bin\Debug\netcoreapp2.0\APP.Projeto05.pdb
+C:\Users\logonrmlocal\Documents\a\APP.Projeto05\obj\Debug\netcoreapp2.0\APP.Projeto05.csprojAssemblyReference.cache
+C:\Users\logonrmlocal\Documents\a\APP.Projeto05\obj\Debug\netcoreapp2.0\APP.Projeto05.csproj.CoreCompileInputs.cache
+C:\Users\logonrmlocal\Documents\a\APP.Projeto05\obj\Debug\netcoreapp2.0\APP.Projeto05.AssemblyInfoInputs.cache
+C:\Users\logonrmlocal\Documents\a\APP.Projeto05\obj\Debug\netcoreapp2.0\APP.Projeto05.AssemblyInfo.cs
+C:\Users\logonrmlocal\Documents\a\APP.Projeto05\obj\Debug\netcoreapp2.0\APP.Projeto05.dll
+C:\Users\logonrmlocal\Documents\a\APP.Projeto05\obj\Debug\netcoreapp2.0\APP.Projeto05.pdb

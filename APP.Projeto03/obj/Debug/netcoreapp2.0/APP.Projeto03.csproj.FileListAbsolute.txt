@@ -1,0 +1,11 @@
+C:\Users\logonrmlocal\Documents\a\APP.Projeto03\bin\Debug\netcoreapp2.0\APP.Projeto03.deps.json
+C:\Users\logonrmlocal\Documents\a\APP.Projeto03\bin\Debug\netcoreapp2.0\APP.Projeto03.runtimeconfig.json
+C:\Users\logonrmlocal\Documents\a\APP.Projeto03\bin\Debug\netcoreapp2.0\APP.Projeto03.runtimeconfig.dev.json
+C:\Users\logonrmlocal\Documents\a\APP.Projeto03\bin\Debug\netcoreapp2.0\APP.Projeto03.dll
+C:\Users\logonrmlocal\Documents\a\APP.Projeto03\bin\Debug\netcoreapp2.0\APP.Projeto03.pdb
+C:\Users\logonrmlocal\Documents\a\APP.Projeto03\obj\Debug\netcoreapp2.0\APP.Projeto03.csprojAssemblyReference.cache
+C:\Users\logonrmlocal\Documents\a\APP.Projeto03\obj\Debug\netcoreapp2.0\APP.Projeto03.csproj.CoreCompileInputs.cache
+C:\Users\logonrmlocal\Documents\a\APP.Projeto03\obj\Debug\netcoreapp2.0\APP.Projeto03.AssemblyInfoInputs.cache
+C:\Users\logonrmlocal\Documents\a\APP.Projeto03\obj\Debug\netcoreapp2.0\APP.Projeto03.AssemblyInfo.cs
+C:\Users\logonrmlocal\Documents\a\APP.Projeto03\obj\Debug\netcoreapp2.0\APP.Projeto03.dll
+C:\Users\logonrmlocal\Documents\a\APP.Projeto03\obj\Debug\netcoreapp2.0\APP.Projeto03.pdb

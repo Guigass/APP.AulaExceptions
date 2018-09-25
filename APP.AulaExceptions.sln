@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UTP.Qualidade", "UTP.Qualid
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APP.Projeto04", "APP.Projeto04\APP.Projeto04.csproj", "{63EA70DA-4ED5-4039-B41B-B9D5F042E479}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APP.Projeto05", "APP.Projeto05\APP.Projeto05.csproj", "{091D9199-48A6-458A-B58A-13A3D35EEE76}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{63EA70DA-4ED5-4039-B41B-B9D5F042E479}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63EA70DA-4ED5-4039-B41B-B9D5F042E479}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{63EA70DA-4ED5-4039-B41B-B9D5F042E479}.Release|Any CPU.Build.0 = Release|Any CPU
+		{091D9199-48A6-458A-B58A-13A3D35EEE76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{091D9199-48A6-458A-B58A-13A3D35EEE76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{091D9199-48A6-458A-B58A-13A3D35EEE76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{091D9199-48A6-458A-B58A-13A3D35EEE76}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
